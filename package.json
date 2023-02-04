@@ -2,7 +2,8 @@
     "type": "commonjs",
     "main": "./src/index.js",
     "scripts": {
-      "start": "node ."
+      "start": "node .",
+      "test": "nodemon ."
     },
 
     "author": "Mezo",
